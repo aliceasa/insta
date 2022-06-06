@@ -1,0 +1,12 @@
+.wrapper {
+  width: 70%;
+  height: 100vh;
+  margin: 50px auto;
+}
+.left-side {
+  width: 50%;
+  height: 100%;
+}
+.left-side img {
+  width: 100%;
+}
